@@ -1,0 +1,31 @@
+# Created with YamlCreate.ps1 v2.2.4 $debug=NVS1.CRLF.5-1-22621-963.Win32NT
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.4.0.schema.json
+
+PackageIdentifier: iPerf3.iPerf3
+PackageVersion: 3.1.3
+PackageLocale: en-US
+Publisher: iPerf3
+PublisherUrl: https://iperf.fr/
+PublisherSupportUrl: https://iperf.fr/contact.php
+# PrivacyUrl:
+# Author:
+PackageName: iPerf3
+PackageUrl: https://iperf.fr/
+License: BSD
+LicenseUrl: https://en.wikipedia.org/wiki/BSD_licenses
+# Copyright:
+# CopyrightUrl:
+ShortDescription: iPerf3 is a tool for active measurements of the maximum achievable bandwidth on IP networks.
+# Description:
+Moniker: iperf3
+Tags:
+- iperf
+- iperf3
+# Agreements:
+# ReleaseNotes:
+# ReleaseNotesUrl:
+# PurchaseUrl:
+# InstallationNotes:
+# Documentations:
+ManifestType: defaultLocale
+ManifestVersion: 1.4.0
